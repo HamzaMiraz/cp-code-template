@@ -63,7 +63,8 @@ cp-code-template/
 
 ### Installation
 
-#### Linux/macOS
+<details>
+<summary><b>Linux/macOS Installation</b></summary>
 
 **Automated Installation (Recommended):**
 
@@ -99,7 +100,10 @@ brew install --cask mactex
 pip3 install pygments
 ```
 
-#### Windows
+</details>
+
+<details>
+<summary><b>Windows Installation</b></summary>
 
 **Automated Setup (Recommended):**
 
@@ -130,6 +134,8 @@ The setup script will:
    ```powershell
    pip install pygments
    ```
+
+</details>
 
 ### Usage
 
